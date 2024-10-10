@@ -27,14 +27,6 @@ The dataset contains sensor data and operational parameters from the tyre produc
 3. **Model Training**: Training machine learning models to predict tyre quality.
 4. **Model Evaluation**: Assessing model performance using metrics such as accuracy and precision.
 
----
-
-## How to Use
-
-1. Clone this repository.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Open and run the Jupyter notebook to replicate the analysis and model training.
-4. Use the trained model to make predictions on new tyre production data.
 
 ---
 
@@ -47,12 +39,10 @@ The following Python libraries are required:
 - matplotlib
 - seaborn
 
-Ensure these are installed using the provided `requirements.txt`.
-
 ---
 
 ## Contact
 
-For further details or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For further details or inquiries, please contact emircan7cankara@gmail.com
 
 ---
